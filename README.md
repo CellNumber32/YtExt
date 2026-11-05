@@ -1,2 +1,2 @@
-# discreteYt
+# YtExt
 Extension for youtube.
